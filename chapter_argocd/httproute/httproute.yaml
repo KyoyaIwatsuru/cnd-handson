@@ -9,7 +9,7 @@ spec:
     namespace: gateway
     sectionName: http
   hostnames:
-  - argocd.example.com
+  - argocd.vm11.handson.cloudnativedays.jp
   rules:
   - matches:
     - path:
